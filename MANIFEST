@@ -12,3 +12,4 @@ typemap
 COPYING
 README
 META.yml                                 Module meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
